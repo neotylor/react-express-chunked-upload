@@ -1,0 +1,19 @@
+Client environment variables
+
+REACT_APP_BASE_URL=http://localhost:3000
+REACT_APP_ADMIN_SLUG=http://localhost:4500
+REACT_APP_PUBLIC_URL=
+baseURL=.
+REACT_APP_API_URL=
+REACT_APP_CLOUD_URL=http://localhost:4001
+
+Server environment variables
+
+NODE_ENV = development
+PORT = 4001
+frontSiteBaseUrl = https://localhost:3000
+ALLOWED_ORIGINS = ['http://localhost:3000', 'http://localhost:3001']
+ROOT_DIRECTORY = ../../website/public/
+BASE_DIRECTORY = ../website/public/
+ENC_KEY = 9Q7CM34P378078969Q7CM34P37807896
+FILE_SIZE = 100
